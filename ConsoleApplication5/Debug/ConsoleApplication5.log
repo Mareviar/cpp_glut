@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication5.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  ConsoleApplication5.cpp
+C:\Users\Huawei_\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(578,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication5.vcxproj -> C:\Users\Huawei_\source\repos\ConsoleApplication5\Debug\ргр рыбы.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
